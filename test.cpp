@@ -10,4 +10,8 @@ int main()
     printf("Hello");
 }
 //some code here 
+<<<<<<< HEAD
 //some more code
+=======
+//created a conflict here
+>>>>>>> master
