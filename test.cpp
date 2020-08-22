@@ -10,5 +10,6 @@ int main()
     printf("Hello");
 }
 //some code here 
-//some more code
+//some more code 
+//created a conflict here
 //created a conflict here
